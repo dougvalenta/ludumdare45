@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "module": "es6",
+        "moduleResolution": "node",
+        "outDir": "target",
+        "target": "es6",
+        "jsx": "react"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
